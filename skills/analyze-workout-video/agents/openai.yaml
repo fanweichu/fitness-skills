@@ -1,0 +1,4 @@
+interface:
+  display_name: "训练视频分析"
+  short_description: "脚本优先识别动作与组次，生成带问题 GIF 的可核验训练报告"
+  default_prompt: "Use $analyze-workout-video to analyze this workout path, create verified issue GIFs and a local HTML report, then refresh durable fitness data."

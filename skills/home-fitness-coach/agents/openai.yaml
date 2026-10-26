@@ -1,0 +1,4 @@
+interface:
+  display_name: "居家健身教练"
+  short_description: "训练前给方案，练后在同一网页更新结论，按需汇总长期训练进展"
+  default_prompt: "使用 $home-fitness-coach 根据近期训练和当前器械安排今天的训练，保存为训练网页。"
